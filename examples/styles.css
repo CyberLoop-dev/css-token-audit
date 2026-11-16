@@ -1,0 +1,6 @@
+:root {
+  --brand: #14b8a6;
+  --surface: #0f172a;
+  --unused-token: #334155;
+}
+.card { color: var(--brand); background: var(--surface); }
